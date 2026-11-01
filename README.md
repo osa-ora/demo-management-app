@@ -1,8 +1,11 @@
 # Demo Management
 
-**Version 1.0 Beta** · Local-first AI chat for DemoIgnite-powered technical demo operations.
+**Version 1.0 Beta** · AI chat for DemoIgnite-powered technical demo operations.
 
 Demo Management provides a three-panel workspace: conversation history, an AI chat session, and a live DemoIgnite catalog. It uses the same lightweight application stack as the companion local apps: Python, FastAPI, and plain HTML/CSS/JavaScript.
+
+<img width="1709" height="836" alt="Screenshot 2026-11-01 at 2 55 38 PM" src="https://github.com/user-attachments/assets/826eeafd-7227-47eb-a9cb-92294ab0c11a" />
+
 
 ## Features
 
