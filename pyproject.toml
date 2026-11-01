@@ -1,0 +1,9 @@
+[project]
+name = "demo-management"
+version = "1.0.0"
+description = "Local-first AI chat interface for DemoIgnite and MCP-powered demo lifecycle management"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
